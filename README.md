@@ -1,3 +1,3 @@
 # game-portal
-markup landing with jQuery
+markup website
 https://virich.github.io/game-portal
